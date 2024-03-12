@@ -1,0 +1,56 @@
+.wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.not-only {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 60px;
+
+}
+
+.not-only__puppy img {
+  width: 100%;
+}
+
+.not-only__content {
+  width: 40%;
+  margin-top: -15%;
+}
+
+.not-only__content h1 {
+  width: 70%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 44px;
+  color: #FFF;
+  font-weight: 400;
+  line-height: 130%;
+}
+
+.not-only__content p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  color: #CDCDCD;
+  margin: 42px 0;
+}
+
+.btn-primary {
+  padding: 15px 45px;
+  border-radius: 100px;
+  background-color: #F1CDB3;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 17px;
+  text-decoration: none;
+  color: #292929;
+  border: 2px solid #F1CDB3;
+  cursor: pointer;
+  transition: background-color 1s, border-color 1s;
+}
+
+.btn-primary:hover {
+  background-color: #FDDCC4;
+  border: 2px solid #FDDCC4;
+  transition: background-color 1s, border-color 1s;
+}

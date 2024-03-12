@@ -1,0 +1,40 @@
+.wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+}
+
+.header-3 {
+  color: #545454;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2.1px;
+}
+
+.header-3_center {
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+}
+
+.help {
+  margin: 80px auto 100px auto;
+}
+
+.help-list {
+  padding: 60px 60px 80px 60px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  column-gap: 10%;
+  row-gap: 55px;
+  text-align: center;
+}
+
+.help-list__card p {
+  margin-top: 30px;
+  color: #545454;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  letter-spacing: 1.2px;
+}

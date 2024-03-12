@@ -1,10 +1,12 @@
-import Header from "./components/Header/header";
 import Background from "./components/Background/Background";
+import About from "./components/About/About";
+import Help from "./components/Help/Help";
 function App() {
   return (
     <div>
-      <Background/>
-      <Header />
+      <Background />
+      <About />
+      <Help />
     </div>
   );
 }
