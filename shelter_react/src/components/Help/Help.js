@@ -1,4 +1,5 @@
 import './Help.css';
+import '../Wrap/Wrap.css';
 import Bowls from '../../assets/img/help/icon-bowls-and-cups.svg';
 import Collars from '../../assets/img/help/icon-collars-leashes.svg';
 import Medicines from '../../assets/img/help/icon-medicines.svg';

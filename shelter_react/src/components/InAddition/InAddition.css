@@ -1,0 +1,46 @@
+.in-addition {
+  background: #F6F6F6;
+  color: #545454;
+}
+
+.in-addition-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 80px 0 100px 0;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+.in-addition__num-bank {
+  width: 350px;
+  padding: 0px 10px;
+  margin: 15px 0;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  color: #545454;
+  font-size: 20px;
+  letter-spacing: 1.2px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: #F1CDB3;
+  border-radius: 9px;
+}
+
+.in-addition__content {
+  width: 60%;
+}
+
+.in-addition-puppy img {
+  width: 100%;
+}
+
+.in-addition__content span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 400;
+  color: #B2B2B2;
+}

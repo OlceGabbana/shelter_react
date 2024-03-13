@@ -1,4 +1,5 @@
 import "./Header.css";
+import '../Wrap/Wrap.css';
 
 const Header = () => {
   return (

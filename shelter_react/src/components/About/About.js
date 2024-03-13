@@ -1,9 +1,10 @@
 import './About.css';
+import '../Wrap/Wrap.css';
 import AboutPets from '../../assets/img/about-pets.png';
 
 const About = () => {
   return (
-    <div class='about wrap'>
+    <div class='about wrap-no-margin'>
       <div class="about__pets">
         <img src={AboutPets} alt="pets" />
       </div>

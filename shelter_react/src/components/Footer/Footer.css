@@ -1,0 +1,41 @@
+footer {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: auto;
+}
+
+.footer-content {
+  padding-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 10%;
+}
+
+.footer-content__elem>img {
+  width: 100%;
+}
+
+.footer-content__elem:nth-last-child(1) {
+  align-self: flex-end;
+}
+
+.header-3_white {
+  color: #FFF;
+}
+
+.img-text {
+  display: flex;
+  align-items: center;
+  color: #F1CDB3;
+  gap: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+  text-decoration: none;
+}
+
+.footer-content__elem {
+  flex-basis: 33.33%;
+}

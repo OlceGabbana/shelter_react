@@ -1,4 +1,5 @@
 import './StartScreen.css';
+import '../Wrap/Wrap.css';
 import PuppyImg from '../../assets/img/start-screen-puppy.png'
 
 const StartScreen = () => {
